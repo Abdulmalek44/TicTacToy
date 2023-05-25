@@ -1,0 +1,16 @@
+.reset-btn {
+    border: none;
+    padding: 15px 20px;
+    cursor: pointer;
+    width: 30%;
+    margin-top: 35px;
+    border-radius: 5rem;
+    color: white;
+    background-color: lightcoral;
+    font-size: 20px;
+    transition: all calc(0.5s);
+}
+
+.reset-btn:hover {
+    background-color: #ef5b5b;
+}
